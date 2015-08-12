@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+       <head>
+              <title>Catch The Egg</title>
+              <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+              <link href="styles.css" rel="stylesheet" type="text/css">
+              <script src="soundmanager2-setup.js"></script>  
+  			  <script src="soundmanager2-jsmin.js"></script> 
+       </head>
+       
+       <body style="background-color:black">
+				<script>
+				  window.fbAsyncInit = function() {
+					FB.init({
+					  appId      : '145020089169034',
+					  xfbml      : true,
+					  version    : 'v2.4'
+					});
+				  };
+
+				  (function(d, s, id){
+					 var js, fjs = d.getElementsByTagName(s)[0];
+					 if (d.getElementById(id)) {return;}
+					 js = d.createElement(s); js.id = id;
+					 js.src = "//connect.facebook.net/en_US/sdk.js";
+					 fjs.parentNode.insertBefore(js, fjs);
+				   }(document, 'script', 'facebook-jssdk'));
+				</script>
+              <div align="center" id="embed-html"></div>
+              <script type="text/javascript" src="html/html.nocache.js"></script>
+			<div
+			  class="fb-like"
+			  data-share="true"
+			  data-width="450"
+			  data-show-faces="true">
+			</div>
+       </body>
+       
+       <script>
+              function handleMouseDown(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+                evt.target.style.cursor = 'default';
+              }
+              
+              function handleMouseUp(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+                evt.target.style.cursor = '';
+              }
+              document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+              document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+       </script>
+</html>

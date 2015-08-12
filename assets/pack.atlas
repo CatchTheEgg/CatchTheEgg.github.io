@@ -1,0 +1,182 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 542
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+bucket
+  rotate: false
+  xy: 804, 925
+  size: 194, 97
+  orig: 194, 97
+  offset: 0, 0
+  index: -1
+chicken
+  rotate: false
+  xy: 804, 784
+  size: 116, 139
+  orig: 116, 139
+  offset: 0, 0
+  index: -1
+egg
+  rotate: false
+  xy: 922, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+egg_cracked_yolk
+  rotate: false
+  xy: 106, 2
+  size: 98, 56
+  orig: 98, 56
+  offset: 0, 0
+  index: -1
+egg_gold
+  rotate: false
+  xy: 804, 624
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+egg_white
+  rotate: false
+  xy: 922, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+egg_white_cracked_yolk
+  rotate: false
+  xy: 2, 2
+  size: 102, 56
+  orig: 102, 56
+  offset: 0, 0
+  index: -1
+falseReplay
+  rotate: false
+  xy: 206, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+goldLost
+  rotate: false
+  xy: 301, 47
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+heartEmpty
+  rotate: false
+  xy: 804, 542
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+menuBackground
+  rotate: false
+  xy: 2, 60
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 258, 16
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+redBar
+  rotate: false
+  xy: 1000, 996
+  size: 12, 26
+  split: 5, 5, 0, 26
+  pad: 5, 5, -1, -1
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+trophy
+  rotate: false
+  xy: 804, 690
+  size: 94, 92
+  orig: 94, 92
+  offset: 0, 0
+  index: -1
+trueReplay
+  rotate: false
+  xy: 804, 572
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yellowBar
+  rotate: false
+  xy: 900, 756
+  size: 12, 26
+  split: 5, 5, 0, 26
+  pad: 5, 5, -1, -1
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bubble
+  rotate: false
+  xy: 2, 144
+  size: 720, 310
+  orig: 720, 310
+  offset: 0, 0
+  index: -1
+clouds
+  rotate: false
+  xy: 2, 2
+  size: 728, 140
+  orig: 728, 140
+  offset: 0, 0
+  index: -1
+overlay30
+  rotate: false
+  xy: 2, 456
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+
+pack3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vani
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+pack4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vaniRed
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
